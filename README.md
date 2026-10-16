@@ -3,7 +3,7 @@
 # ⚡ TrueTweaks
 ### Windows Kernel, Latency & FPS Optimization Engine
 
-[![Latest Release](https://img.shields.io/badge/LATEST%20RELEASE-v1.3.1-00E65A?style=for-the-badge)](https://github.com/creezox/TrueTweaks/releases/latest)
+[![Latest Release](https://img.shields.io/badge/LATEST%20RELEASE-v1.3.2-00E65A?style=for-the-badge)](https://github.com/creezox/TrueTweaks/releases/latest)
 [![Platform](https://img.shields.io/badge/PLATFORM-WINDOWS%2010%20%7C%2011%20(64--BIT)-0E1210?style=for-the-badge&logo=windows&logoColor=00E65A)](#)
 [![Engine](https://img.shields.io/badge/ENGINE-200%20MODULES%20%E2%80%A2%2018%2C913%20TWEAKS-0E1210?style=for-the-badge&color=00E65A)](#-complete-architecture-9-categories--200-modules--18913-tweaks)
 [![Price](https://img.shields.io/badge/LICENSE-100%25%20FREE-10B981?style=for-the-badge)](#)
