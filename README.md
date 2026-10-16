@@ -17,14 +17,6 @@
 
 ---
 
-## 📸 Interface Preview
-
-| **Dashboard & Live Hardware Telemetry** | **Optimization Center (200 Modules • 18,913 Tweaks)** |
-| :---: | :---: |
-| ![Dashboard](screenshots/dashboard.png) | ![Optimization Center](screenshots/tweaks.png) |
-
----
-
 ## 🚀 Key Highlights
 
 - **⚡ 200 Modular Profiles (18,913 Low-Level Rules):** Granular control over every subsystem of Windows 10 & Windows 11, with real-time counters tracking active modules and active kernel/registry rules.
