@@ -8,7 +8,7 @@
 ![Engine](https://img.shields.io/badge/ENGINE-200%20MODULES%20%E2%80%A2%2018%2C913%20TWEAKS-08090C?style=for-the-badge&color=00FF66)
 ![License](https://img.shields.io/badge/LICENSE-100%25%20FREE-10B981?style=for-the-badge)
 
-**TrueTweaks** is a commercial-grade, 100% free Windows optimization and latency-reduction suite built with **C# 12 / .NET 8**. Engineered to rival paid tools like *EXM Tweaks* and *Hone*, TrueTweaks deploys **200 modular optimization profiles** controlling **18,913 low-level Kernel, Registry, MSI Interrupt, Memory, and TCP/IP rules** with instant 1-click rollback.
+**TrueTweaks** is a commercial-grade, 100% free Windows optimization and latency-reduction suite built with **C# 12 / .NET 8**. Engineered to rival paid tools, TrueTweaks deploys **200 modular optimization profiles** controlling **18,913 low-level Kernel, Registry, MSI Interrupt, Memory, and TCP/IP rules** with instant 1-click rollback.
 
 </div>
 
