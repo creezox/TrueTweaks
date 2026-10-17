@@ -3,15 +3,12 @@
 # ⚡ TrueTweaks
 ### Windows Kernel, Latency & FPS Optimization Engine
 
-[![Latest Release](https://img.shields.io/badge/LATEST%20RELEASE-v1.3.3-00E65A?style=for-the-badge)](https://github.com/creezox/TrueTweaks/releases/latest)
-[![Platform](https://img.shields.io/badge/PLATFORM-WINDOWS%2010%20%7C%2011%20(64--BIT)-0E1210?style=for-the-badge&logo=windows&logoColor=00E65A)](#)
-[![Engine](https://img.shields.io/badge/ENGINE-200%20MODULES%20%E2%80%A2%2018%2C913%20TWEAKS-0E1210?style=for-the-badge&color=00E65A)](#-complete-architecture-9-categories--200-modules--18913-tweaks)
-[![Price](https://img.shields.io/badge/LICENSE-100%25%20FREE-10B981?style=for-the-badge)](#)
-[![Discord](https://img.shields.io/badge/DISCORD-JOIN%20COMMUNITY-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/truetweaks)
+![Version](https://img.shields.io/badge/VERSION-v2.0.2-00FF66?style=for-the-badge)
+![Platform](https://img.shields.io/badge/PLATFORM-WINDOWS%2010%20%7C%2011%20(64--BIT)-08090C?style=for-the-badge&logo=windows&logoColor=00FF66)
+![Engine](https://img.shields.io/badge/ENGINE-200%20MODULES%20%E2%80%A2%2018%2C913%20TWEAKS-08090C?style=for-the-badge&color=00FF66)
+![License](https://img.shields.io/badge/LICENSE-100%25%20FREE-10B981?style=for-the-badge)
 
-**TrueTweaks** is a commercial-grade, 100% free Windows optimization and latency-reduction suite built with **C# 12 / .NET 8 WPF**. Engineered to rival paid tools like *EXM Tweaks* and *Hone*, TrueTweaks deploys **200 modular optimization profiles** controlling **18,913 low-level Kernel, Registry, MSI Interrupt, Memory, and TCP/IP rules** with instant 1-click rollback.
-
-[**⬇️ Download Latest Release (`TrueTweaks.exe`)**](https://github.com/creezox/TrueTweaks/releases/latest) • [**💬 Join our Discord (`discord.gg/truetweaks`)**](https://discord.gg/truetweaks)
+**TrueTweaks** is a commercial-grade, 100% free Windows optimization and latency-reduction suite built with **C# 12 / .NET 8**. Engineered to rival paid tools like *EXM Tweaks* and *Hone*, TrueTweaks deploys **200 modular optimization profiles** controlling **18,913 low-level Kernel, Registry, MSI Interrupt, Memory, and TCP/IP rules** with instant 1-click rollback.
 
 </div>
 
@@ -23,7 +20,6 @@
 - **📊 Real-Time Task Manager Telemetry:** Live scrolling hardware area graphs monitoring **CPU Utilization & Clock Speed**, **RAM Load & Speed**, **NVMe/SSD Free Storage**, and **Latency Health Score**.
 - **🧹 Deep System Cleaner & Standby List Purge:** Clears DirectX/OpenGL/Vulkan Shader Caches, Windows Temp/Prefetch folders, and flushes Standby RAM in 1 click.
 - **🛡️ 100% Reversible & Safe:** Every tweak uses native Windows APIs, includes a dedicated **VSS System Restore Point** creator, **Registry Hive `.reg` Backup**, and 1-click **Restore Defaults**.
-- **🔄 Built-In GitHub Auto-Updater:** Automatically checks `creezox/TrueTweaks` for new software releases and updates directly inside the app with a single click.
 
 ---
 
@@ -98,12 +94,3 @@ Delivers raw 1:1 pointer accuracy and sub-millisecond USB peripheral polling:
 Removes DWM composition overhead for an instantaneous desktop experience:
 - **Zero UI Delay:** Sets `MenuShowDelay = 0`, disables Taskbar/Window/Start animations, disables Acrylic/Mica blur transparency, disables drop shadows, and blocks Action Center overlay interrupts.
 - **Shell Extensions (`516 Sub-Rules`):** Blocks 516 non-essential background COM shell extensions from slowing down `explorer.exe`.
-
----
-
-## 📥 Installation & Auto-Updates
-
-1. Download **`TrueTweaks.exe`** from the [**Latest Release**](https://github.com/creezox/TrueTweaks/releases/latest).
-2. Run **`TrueTweaks.exe`** as **Administrator** (required for Kernel, BCD, and HKLM Registry access).
-3. Create a safety snapshot in **Backup & Restore** or click **Instant Quick Boost** on the Dashboard.
-4. Whenever a new version is published on GitHub, click **Update System & Tweaks** in **Settings** to automatically download and install the latest build in place.
