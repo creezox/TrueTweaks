@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ TrueTweaks
+#  TrueTweaks
 ### Windows Kernel, Latency & FPS Optimization Engine
 
 ![Version](https://img.shields.io/badge/VERSION-v2.0.2-00FF66?style=for-the-badge)
