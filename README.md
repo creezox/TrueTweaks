@@ -3,6 +3,12 @@
 #  TrueTweaks
 ### Windows Kernel, Latency & FPS Optimization Engine
 
+<br/>
+
+<img src="assets/dashboard.png" alt="TrueTweaks Dashboard" width="720"/>
+
+<br/><br/>
+
 ![Version](https://img.shields.io/badge/VERSION-v3.0.2-00FF66?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/PLATFORM-WINDOWS%2010%20%7C%2011%20(64--BIT)-08090C?style=for-the-badge&logo=windows&logoColor=00FF66)
 ![Engine](https://img.shields.io/badge/ENGINE-200%20MODULES%20%E2%80%A2%2018%2C913%20TWEAKS-08090C?style=for-the-badge&color=00FF66)
